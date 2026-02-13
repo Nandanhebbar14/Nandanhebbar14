@@ -18,7 +18,7 @@ I enjoy building web applications, learning full-stack development, and explorin
 
 - ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/nandan-hebbar2004
 - 💻 GitHub: *(you are here 😄)*
 
 - ## ⚡ Fun Fact
